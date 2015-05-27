@@ -1,0 +1,11 @@
+<ul class="Print">
+<input type="button" value="Print Member Names" onclick = "window.print()"/>
+</ul>
+<div class="clear"></div>
+<ul class="Lushan Chokalingam">	
+<h2>Lushan Chokalingam <small></small></h2>
+<h2>u11048222 <small></small></h2>
+<div class="container">
+<li><img src="images/pic22.jpg" alt="" width="104" height="36"></li>
+</div>					
+</ul>
